@@ -4,6 +4,8 @@
 >##################Follow the commands for installation##############
 >####################################################################  
 
+sudo apt-get install git -y
+
 git clone https://github.com/rushikparmar/ngspice_installation
 
 cd ngspice_installation/
