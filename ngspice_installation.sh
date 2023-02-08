@@ -25,7 +25,7 @@ sudo make install
 
 cd ..
 wget https://ngspice.sourceforge.io/model-parameters/basic_models.7z
-sudo apt install p7zip
+sudo apt install p7zip -y
 p7zip -d basic_models.7z
 rm basic_models.7z
 
