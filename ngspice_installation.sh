@@ -25,7 +25,8 @@ sudo make install
 
 cd ..
 wget https://ngspice.sourceforge.io/model-parameters/basic_models.7z
-tar -zxf basic_models.7z
+sudo apt install p7zip
+p7zip -d basic_models.7z
 rm basic_models.7z
 
 wget https://sanjayvidhyadharan.in/Downloads/tsmc_180_nm/tsmc018.lib
