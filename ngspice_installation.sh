@@ -22,6 +22,8 @@ echo "=============================================="
 sudo apt-get install wget -y
 sudo apt-get install git -y
 
+sudo apt-get install g++ -y
+
 sudo apt install automake -y
 sudo apt install libtool -y
 sudo apt install libxaw7-dev -y
