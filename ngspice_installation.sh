@@ -44,7 +44,7 @@ echo "----ngspice source file extraction----"
 echo "=============================================="
 
 tar -zxf ngspice-38.tar.gz
-rm ngspice-38.tar.gz
+#rm ngspice-38.tar.gz
 cd ngspice-38/
 
 echo "=============================================="
