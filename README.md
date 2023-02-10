@@ -6,6 +6,10 @@
 
 sudo apt-get install git -y
 
+cd
+
+cd Downloads/
+
 git clone https://github.com/rushikparmar/ngspice_installation
 
 cd ngspice_installation/
